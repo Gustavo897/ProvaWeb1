@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Curriculo</title>
+	<meta charset="utf-8">
+</head>
+<body>
+  <h1><center>Meu Currículo:</center></h1><p>
+  <h2>Informações:</h2>
+   <ul>
+   	<li>Nome: Victor Gopfert Ferreira Figueiredo</li>
+   	<li>Idade: 16 anos</li>
+   	<li>Email: victorgopfert@gmail.com</li>
+   </ul>
+   <h2>Objetivo:</h2>
+   <table>
+   	<tr>
+   		<td>Programação / Desenvolvimento de Games</td>
+   	</tr>
+   </table>
+   <h2>Formação Acadêmica:</h2>
+   <table>
+   	<tr>
+   		<td>Ensino Médio Técnico na Escola Técnica Rezende Rammel (Cidade/RJ)-2019</td>
+   	</tr>
+   </table>
+   <h2>Experiências Profissionais:</h2>
+   <table>
+   	<tr>
+   		<td>Nenhuma</td>
+   	</tr>
+   </table>
+   <a href="file:///C:/Users/Pichau/Documents/curriculo/img.html"> Imagem</a>   
+</html>
